@@ -1,0 +1,11 @@
+{
+   "class" : "EntityTemplate",
+   "object" : {
+      "IResource" : {},
+      "components" : [],
+      "entity" : {
+         "class" : "Entity",
+         "object" : {}
+      }
+   }
+}
